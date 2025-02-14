@@ -1,0 +1,7 @@
+{
+  "id": 4,
+  "name": "Charles",
+  "email": "charles@sparkle.test",
+  "is_admin": true,
+  "preferences": []
+}
